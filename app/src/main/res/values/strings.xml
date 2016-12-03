@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Coctels</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">My Coctels</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Menu Titles-->
+    <string name="menu_all_coctels">All Coctels</string>
+    <string name="menu_categories">Categories</string>
+    <string name="menu_ingredients">Ingredients</string>
+    <string name="menu_shopping">Shopping list</string>
+    <string name="menu_favorites">Favorites</string>
+
+
+    <!-- Opciones de Comunicacion-->
+    <string name="menu_opc_share">Share</string>
+    <string name="menu_opc_rate">Rate It</string>
+    <string name="title_coctel_list">Coctels</string>
+    <string name="title_coctel_detail">Coctel Detail</string>
+</resources>
